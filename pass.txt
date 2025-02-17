@@ -1,1 +1,4 @@
 
+step2:hiro:12345
+test:hiro:12345
+mahoroba:channel:12345
