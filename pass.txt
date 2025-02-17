@@ -2,3 +2,8 @@
 step2:hiro:12345
 test:hiro:12345
 mahoroba:channel:12345
+iyo:oshima:123456
+testgpg:hiro:123456
+gpgtest:hiro:123456
+gpgtest2:hiro:123456
+test36:miroku:123456
